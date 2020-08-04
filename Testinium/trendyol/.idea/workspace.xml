@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a6b7eba-3552-448e-a0a9-4438452f75f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/000e19c4-6623-4f08-95bf-3aa1a75d8b75-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/004ef775-3136-4f86-b05a-64e66580fbe6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0242a453-b569-45d5-b8a8-5efebe392efa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/072606b3-517a-47e1-96a5-360c494babef-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/178a923d-43e1-4808-87bb-cf5d985570e1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1ef79387-1d95-4dc0-a733-c751feb85c5b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/25a38c46-4a31-463a-9308-062ccbdef752-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2faacb25-0301-4ed8-9b49-1954c9e7ae31-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/38a78a9d-a22f-4244-b7ea-f2f44aadda34-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4323c3e4-513d-44ac-bbb7-c11a94c5f049-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5164e0ff-d371-4c1e-8649-ace93bad0c32-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/553942eb-757f-44e5-815b-116e3e09ec31-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5d2bd021-6117-4f0c-a884-d733c80cafb2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/603abc49-c3b6-40a6-bf5f-6538247ce65d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/639b77d3-906e-4e67-8d64-318d45dc8eec-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6a9b8a35-02c5-42be-bf27-167c0c3047ec-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6cc25915-581f-4a58-a3db-a99e825d0b9f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7a738cb3-7372-4f90-beb0-f2249ede1841-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7bfb0eee-f195-4f1f-b88f-f1326d1ef6cd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7c041992-ea07-4812-bdff-54c6518c2d1b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7f0ba46b-94bb-4f38-87b3-b938297e67f9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/80034101-be78-4f52-a5cf-39af3cd46685-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/80ca7a30-f973-4e23-b45d-6571600961ad-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/810293c3-da9f-463e-acc6-4b2bf1292014-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/84a9258c-0708-46b2-aedf-0d51e1d2256a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8eff410b-7330-480a-8a03-21db13118391-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/906ab1b6-3a24-4555-a3f3-9367d8033373-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/92cedcba-3c83-4fd0-bd99-d953857475d6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/959a35c2-71f0-4356-a0a9-88e5184bfec2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/95f1d46c-fbea-44ff-b61b-fdcdfec3d536-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/978787a6-075e-4352-8425-72fb9da97609-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/97b3b13d-2f66-41c5-8312-e94145774e48-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9d0a185d-129e-4493-883c-3917b86b8f4c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9da21428-1d84-43b5-8e84-55d4722ef047-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a969e66f-cf74-4ca9-8528-38c2d378b38a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b2435b5f-99bb-4e1c-8cd6-a2086e9dcc3d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b37dc492-503f-4ac0-a7a7-ac7cb89c44b0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b612eb3c-968f-4afe-8301-e2034058c5dc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c4888755-aa8e-4dd9-982f-568168cc1624-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c8d54280-d682-4edc-8ecc-42c76ab257cf-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d7442bed-994a-4bd0-bb84-ff6764cc24eb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d8e536eb-e08d-458f-9753-c7aefa80d119-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e0af7ef0-4b9a-4413-bd70-89062bd6d666-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e30b22c2-3dec-4032-a6ec-dfd2569b0a18-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e416c0b4-d8a0-47d6-b1d5-6266b8a20c7e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e6f06827-e901-4566-818a-efa1e52c92b1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ea1ee879-171f-4511-87d3-925f74434f7a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/eab11e23-7b50-48b0-8818-c809d0d92c38-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/efcefa3e-a660-4939-8c62-d5b672d24377-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f34085b3-28aa-4843-80ba-9dfc95ae0b0f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f71827a2-3adc-4af1-9a30-7b90b909db09-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/fdac855f-c472-46e6-95e3-c99774396ef7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/trendyol/web/test/TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/trendyol/web/test/TestCases.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
+              <folding>
+                <element signature="e#1422#1423#0" expanded="true" />
+                <element signature="e#1457#1458#0" expanded="true" />
+                <element signature="e#2408#2409#0" expanded="true" />
+                <element signature="e#2467#2468#0" expanded="true" />
+                <element signature="e#2556#2557#0" expanded="true" />
+                <element signature="e#2621#2622#0" expanded="true" />
+                <element signature="e#2695#2696#0" expanded="true" />
+                <element signature="e#2751#2752#0" expanded="true" />
+                <element signature="e#3934#3935#0" expanded="true" />
+                <element signature="e#3986#3987#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/ProductPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/trendyol/web/test/TestCases.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/BaseProductsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/BoutiquePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="e#966#967#0" expanded="true" />
+                <element signature="e#1021#1022#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/trendyol/api/TestCases.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="86" column="38" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/SearchPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="31" column="33" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/trendyol/web/test/BaseWebTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/config/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <folding>
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>placeHolderImageUrl</find>
+      <find>mainTab</find>
+      <find>validateBoutiqueProductsImages</find>
+      <find>classProductsContainer</find>
+      <find>boutiqueUrlPart</find>
+      <find>queryPara</find>
+      <find>scroll</find>
+      <find>attri</find>
+      <find>JavascriptExecutor</find>
+      <find>abst</find>
+      <find>valid</find>
+      <find>wait.until</find>
+      <find>DOM</find>
+      <find>pressS</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/pages/BoutiquePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/BaseProductsPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/config/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/trendyol/web/test/TestCases.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/BasePage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="800" />
+    <option name="width" value="1129" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="endpoints" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trendyol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trendyol" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nursah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trendyolUpdates" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trendyol" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582175895007" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ext02d16065\Desktop\trendyolUpdates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCases.search">
+    <configuration name="TestCases.addToBasket" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trendyolUpdates" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trendyol.web.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trendyol.web.test" />
+      <option name="MAIN_CLASS_NAME" value="trendyol.web.test.TestCases" />
+      <option name="METHOD_NAME" value="addToBasket" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.checkForBoutiqueImages" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trendyolUpdates" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trendyol.web.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trendyol.web.test" />
+      <option name="MAIN_CLASS_NAME" value="trendyol.web.test.TestCases" />
+      <option name="METHOD_NAME" value="checkForBoutiqueImages" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.checkForProductImages" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trendyolUpdates" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trendyol.web.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trendyol.web.test" />
+      <option name="MAIN_CLASS_NAME" value="trendyol.web.test.TestCases" />
+      <option name="METHOD_NAME" value="checkForProductImages" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trendyolUpdates" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trendyol.web.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trendyol.web.test" />
+      <option name="MAIN_CLASS_NAME" value="trendyol.web.test.TestCases" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.successSignIn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trendyolUpdates" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trendyol.web.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trendyol.web.test" />
+      <option name="MAIN_CLASS_NAME" value="trendyol.web.test.TestCases" />
+      <option name="METHOD_NAME" value="successSignIn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCases.search" />
+        <item itemvalue="TestNG.TestCases.addToBasket" />
+        <item itemvalue="TestNG.TestCases.checkForProductImages" />
+        <item itemvalue="TestNG.TestCases.checkForBoutiqueImages" />
+        <item itemvalue="TestNG.TestCases.successSignIn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a6b7eba-3552-448e-a0a9-4438452f75f8" name="Default Changelist" comment="" />
+      <created>1581544669200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581544669200</updated>
+      <workItem from="1581544672535" duration="27224000" />
+      <workItem from="1582004550947" duration="11897000" />
+      <workItem from="1582108861960" duration="2955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestCases_successSignIn - 2020.02.18 at 15h 40m 11s.xml">
+      <configuration name="TestCases.successSignIn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCases_checkForBoutiqueImages - 2020.02.18 at 15h 40m 28s.xml">
+      <configuration name="TestCases.checkForBoutiqueImages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCases_checkForBoutiqueImages - 2020.02.18 at 15h 41m 17s.xml">
+      <configuration name="TestCases.checkForBoutiqueImages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCases_checkForBoutiqueImages - 2020.02.18 at 15h 42m 35s.xml">
+      <configuration name="TestCases.checkForBoutiqueImages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCases_checkForBoutiqueImages - 2020.02.18 at 15h 45m 18s.xml">
+      <configuration name="TestCases.checkForBoutiqueImages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCases_checkForProductImages - 2020.02.18 at 15h 46m 15s.xml">
+      <configuration name="TestCases.checkForProductImages" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCases_addToBasket - 2020.02.18 at 15h 47m 18s.xml">
+      <configuration name="TestCases.addToBasket" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCases_addToBasket - 2020.02.18 at 15h 48m 14s.xml">
+      <configuration name="TestCases.addToBasket" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCases_search - 2020.02.19 at 14h 33m 00s.xml">
+      <configuration name="TestCases.search" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCases_search - 2020.02.19 at 14h 34m 38s.xml">
+      <configuration name="TestCases.search" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42076000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24697986" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14589235" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.08923513" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.21246459" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/4.0.0/rest-assured-4.0.0-sources.jar!/io/restassured/RestAssured.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="360" column="25" selection-start-line="360" selection-start-column="25" selection-end-line="360" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="2131" column="19" selection-start-line="2131" selection-start-column="19" selection-end-line="2131" selection-end-column="19" />
+          <folding>
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0-sources.jar!/org/openqa/selenium/support/ui/WebDriverWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/trendyol/api/APITestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/endpoints/EndPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dto/BooksDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/config/TestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/BaseProductsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/trendyol/api/TestCases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="86" column="38" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/trendyol/web/test/TestCases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/trendyol/web/test/BaseWebTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
+          <folding>
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#2408#2409#0" expanded="true" />
+            <element signature="e#2467#2468#0" expanded="true" />
+            <element signature="e#2556#2557#0" expanded="true" />
+            <element signature="e#2621#2622#0" expanded="true" />
+            <element signature="e#2695#2696#0" expanded="true" />
+            <element signature="e#2751#2752#0" expanded="true" />
+            <element signature="e#3934#3935#0" expanded="true" />
+            <element signature="e#3986#3987#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/BoutiquePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
